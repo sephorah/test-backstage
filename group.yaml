@@ -6,8 +6,8 @@ metadata:
 spec:
   type: business-unit
   profile:
-    displayName: Infrastructure
-    email: infrastructure@example.com
+    displayName: Test Team
+    email: test-team@example.com
     picture: https://example.com/groups/bu-infrastructure.jpeg
   parent: ops
   children: [backstage, other]
