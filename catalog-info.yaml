@@ -4,6 +4,8 @@ metadata:
   name: test-backstage-library
   description: |
     A test library
+  annotations:
+    github.com/project-slug: sephorah/test-bschocolatine
   links:
     - title: Website
       url: http://backstage.io
